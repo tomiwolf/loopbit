@@ -2817,9 +2817,10 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
+			background-color: #67c7ce;
 		
-			background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-			url("/images/wp.jpg");
+			/* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+			url("/images/wp.jpg"); */
 			/* color: #c8ece9; */
 		}
 
